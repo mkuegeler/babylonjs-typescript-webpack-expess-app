@@ -2,7 +2,7 @@
 A sample project for writing a Node.js web application using Babylonjs, TypeScript, Webpack and Express
 
 The intention of this project is to provide a template to get started with the development of 3D web applicaions using the Babylonjs web rendering engine.
-The setup comprises Node.js as the platform, TypeScript as the programming language, WebPack to bundle the assets and Express as the web server and runtime.
+The setup comprises Node.js as the platform, TypeScript as the programming language, Babylonjs as the rendering engine, WebPack to bundle the assets and Express as the web framework and runtime.
 
 ## Preconditions:
 
@@ -11,9 +11,8 @@ The setup comprises Node.js as the platform, TypeScript as the programming langu
 
 Please see the links in the "References" section for details.
 
-Just clone this repository, open the directory and follow the steps below.
-
 ## Installation
+Assuming you’ve already installed Node.js and TypeScript, clone this repository, and make that your working directory.
 
 ```
 npm install
