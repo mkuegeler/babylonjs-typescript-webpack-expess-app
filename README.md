@@ -37,9 +37,24 @@ npm start
 http://localhost:3000
 ```
 
+## Getting started
+Start writing your own code in the `src` directory. The command `npm run build` writes the compiled result to folder `public/dist`.
+
+```
+├── server.ts
+├── package.json
+├── tsconfig.jsob
+├── README.md
+├── src
+│   ├── app.ts
+│   ├── scene.ts
+├── public
+│   ├── index.html
+│   └── dist
+```
 
 ## References
-This project refers to the following sources
+This project refers to the following sources:
 
 https://nodejs.org/
 
