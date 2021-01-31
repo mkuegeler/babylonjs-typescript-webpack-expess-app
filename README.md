@@ -4,7 +4,7 @@ A sample project for writing a Node.js web application using Babylonjs, TypeScri
 The intention of this project is to provide a template to get started with the development of 3D web applicaions using the Babylonjs web rendering engine.
 The setup comprises Node.js as the platform, TypeScript as the programming language, Babylonjs as the rendering engine, WebPack to bundle the assets and Express as the web framework and runtime.
 
-## Preconditions:
+## Requirements
 
 - Node.js is installed
 - TypeScript is installed
@@ -19,24 +19,27 @@ npm install
 ```
 
 ## Build
+Next step is to run a test build.
 
 ```
 npm run build
 ```
 
 ## Start application
+To see the example in action, start the web server.
 
 ```
 npm start
 ```
 
 ## Open in browser
+Check the result in your browser.
 
 ```
 http://localhost:3000
 ```
 
-## Getting started
+## Getting started with development
 Start writing your own code in the `src` directory. The command `npm run build` writes the compiled result to folder `public/dist`.
 
 This is the folder structure of the project:
