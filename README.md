@@ -40,10 +40,12 @@ http://localhost:3000
 ## Getting started
 Start writing your own code in the `src` directory. The command `npm run build` writes the compiled result to folder `public/dist`.
 
+This is the folder structure of the project:
+
 ```
-├── server.ts
+├── server.js
 ├── package.json
-├── tsconfig.jsob
+├── tsconfig.json
 ├── README.md
 ├── src
 │   ├── app.ts
