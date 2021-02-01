@@ -10,6 +10,10 @@
   },
   "author": "mkuegeler",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkuegeler/babylonjs-typescript-webpack-expess-app.git"
+  },
   "dependencies": {
     "express": "^4.17.1"
   },
